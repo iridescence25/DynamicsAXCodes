@@ -3,5 +3,5 @@
 ]
 class DPClass extends SrsReportDataProviderPreProcessTempDB
 {
-    TableTmp   tempTble;
+    TableTmp   tempTable;
 }
